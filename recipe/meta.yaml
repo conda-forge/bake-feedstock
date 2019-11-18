@@ -24,6 +24,7 @@ requirements:
     - colorama
     - networkx
     - click
+    - pygments
 
 test:
   imports:
